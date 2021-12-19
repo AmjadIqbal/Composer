@@ -1,0 +1,6 @@
+composer config -g repo.packagist composer http://packagist.org
+
+
+
+
+
