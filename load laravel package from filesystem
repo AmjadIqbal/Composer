@@ -1,0 +1,10 @@
+add this code in root composer.json file
+
+ "repositories": [
+        {
+            "type": "path",
+            "url": "your_complete_package_path"
+        }
+    ],
+    
+then run this command composer require "owner_name/package_name"
